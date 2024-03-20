@@ -1,2 +1,2 @@
-# TIE-PROJECT
+# Travel_blog-PROJECT
 Travel Blog
